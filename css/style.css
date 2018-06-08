@@ -1,0 +1,62 @@
+.container{width: 1000px;
+		background-color: pink;
+		height: 1000px;
+		margin-left: auto; 
+		margin-right: auto;
+}
+.header{width: 100%;
+		height: 100px
+		background-color: blue;
+}
+.logo{width: 30%;
+	background: #790c04;
+		height: 100px;
+		float: left; 
+}
+.menu{width: 70%;
+	background-color: green;
+	height: 100px;
+	float: left;
+
+}
+.banner{width: 100%;
+	height:300px;
+	background-color: skyblue;
+
+}
+.main-content{height: 500px;
+			width: 100%;
+			background-color: salmon;
+
+}
+.one{width: 50%;
+	height: 500px;
+	background-color: orange;
+	float: left;
+
+}
+.client{width: 100%;
+	height: 250px;
+	background-color: rgba(250, 128, 114, 1);
+	float: left;
+
+}
+.project{width: 100%;
+	height: 250px;
+	background-color: red;
+	float: left;
+
+}
+.two{width: 50%;
+	height: 500px;
+	background-color: blue;
+	float: right;
+}
+.about-us{width: 100%;
+	height: 100px;
+	background-color: yellow;
+}
+.footer{height: 100px;
+	width: 100%;
+	background-color: black;
+}
